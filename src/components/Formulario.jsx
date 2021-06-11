@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Formulario.module.css';
-import Proptypes from 'prop-types';
+import PropTypes from 'prop-types';
 import useSelect from '../hooks/useSelect';
 
 const Formulario = ({guardarCategoria}) => {
