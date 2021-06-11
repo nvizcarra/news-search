@@ -9,7 +9,7 @@ const Formulario = ({guardarCategoria}) => {
         { value: 'business', label: 'Negocios'},
         { value: 'entertainment', label: 'Entretenimiento'},
         { value: 'health', label: 'Salud'},
-        { value: 'sience', label: 'Ciencias'},
+        { value: 'science', label: 'Ciencias'},
         { value: 'sports', label: 'Deportes'},
         { value: 'technology', label: 'Tecnología'}
     ]

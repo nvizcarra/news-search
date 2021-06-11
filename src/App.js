@@ -35,6 +35,7 @@ function App() {
 
         <ListadoNoticias 
           noticias={noticias}
+          
         />
       </div>
     </Fragment>
