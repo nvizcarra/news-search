@@ -13,6 +13,10 @@ const Formulario = ({guardarCategoria}) => {
         { value: 'science', label: 'Ciencias'},
         { value: 'sports', label: 'Deportes'},
         { value: 'technology', label: 'Tecnología'}
+
+        // { value: 'breaking-news', label: 'Ultimo momento'},
+        // { value: 'world', label: 'Mundo'},
+        // { value: 'nation', label: 'Local'}
     ]
 
     // Utilizar custom hook
